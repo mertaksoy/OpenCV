@@ -1,5 +1,5 @@
-#OpenCV Examples
-OpenCV tryouts
+# OpenCV Tryouts
+![OpenCV](https://i0.wp.com/syncedreview.com/wp-content/uploads/2019/04/image-38-2.png)
 
 ## Shape detection
 Classifying object types based on their contour length.
