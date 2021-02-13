@@ -46,6 +46,7 @@ imgCanny = cv2.Canny(imgBlur, 50, 50)
 
 detect_objects(imgCanny)
 
+cv2.imshow("Original", img)
 cv2.imshow("Canny", imgCanny)
 cv2.imshow("Contour", imgContour)
 
